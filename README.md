@@ -14,4 +14,6 @@ SVM用来解决二分类问题的有监督学习算法，其可以解决线性�
 
 本项目旨在使用SVM构建非线性分类模型来判别数据集的不同类别。
 
+https://www.jianshu.com/p/3ea7bb62ffe8
+
 WangShuai  2019/04/29
